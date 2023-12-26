@@ -1,16 +1,19 @@
 # 2023 산업 AI 마이크로디그리 Track A 과정 Project <br> 
-#### 中 착륙장 내 배터리 충전 설비 관련 코드
+### By Sumin Han (Myongji Univ.)
 
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/1ced1d4b-d1c8-465b-8425-c866601c4163)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/15f6fb01-5591-4739-92f9-766e400b2107)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/5102973b-0109-4104-a5de-b2eed753a0bd)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/5e182781-501d-45e8-9301-c81215751c62)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/0a05d764-40f3-44c0-8b3f-cb109b0b3ea5)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/39e0a80b-c274-46b7-b1f4-9d4a17915612)
-
-![image](https://github.com/hansumin1022/TU_Korea/assets/130205263/40f3d68c-2719-4283-8036-a547cca043a8)
+![슬라이드1](https://github.com/hansumin1022/TU_Korea/assets/130205263/8031c325-6913-4694-b4f1-91ece4df7f84)
+![슬라이드2](https://github.com/hansumin1022/TU_Korea/assets/130205263/091d0250-34c7-4872-bf8f-7d5b95ab1ba8)
+![슬라이드3](https://github.com/hansumin1022/TU_Korea/assets/130205263/7ea49c39-7b06-47a0-8869-166bec9ac09e)
+![슬라이드4](https://github.com/hansumin1022/TU_Korea/assets/130205263/c6c8e91b-1d41-4123-9b19-88afd9070019)
+![슬라이드5](https://github.com/hansumin1022/TU_Korea/assets/130205263/790cee6b-06ff-481a-bfca-bb1430631a13)
+![슬라이드6](https://github.com/hansumin1022/TU_Korea/assets/130205263/61e7afff-7bec-4a4c-956e-1053bb963d52)
+![슬라이드7](https://github.com/hansumin1022/TU_Korea/assets/130205263/9d7b6693-fea2-444b-948c-c1c3fe6262b5)
+![슬라이드8](https://github.com/hansumin1022/TU_Korea/assets/130205263/b1f09d7b-dd0e-4246-91a0-0c8b4fd5e675)
+![슬라이드9](https://github.com/hansumin1022/TU_Korea/assets/130205263/0f992dbd-fc13-41a7-9d17-73b2de1cdf79)
+![슬라이드10](https://github.com/hansumin1022/TU_Korea/assets/130205263/75191de0-6ccc-4e70-ba65-a8c24cbf6f1d)
+![슬라이드11](https://github.com/hansumin1022/TU_Korea/assets/130205263/60663ffa-5c3b-4bd7-98a3-bdbf52a52573)
+![슬라이드12](https://github.com/hansumin1022/TU_Korea/assets/130205263/03375f86-6235-4968-b9a1-9bddb43ccd95)
+![슬라이드13](https://github.com/hansumin1022/TU_Korea/assets/130205263/7e271643-0967-4a97-bda8-5ac7039de73e)
+![슬라이드14](https://github.com/hansumin1022/TU_Korea/assets/130205263/90fa6470-64b7-4199-b3a5-110705129665)
+![슬라이드15](https://github.com/hansumin1022/TU_Korea/assets/130205263/f79b199b-2378-467b-8a2c-6f16f16b3028)
+![슬라이드16](https://github.com/hansumin1022/TU_Korea/assets/130205263/f917d813-6718-4c4e-9eed-97d3bce05d08)
