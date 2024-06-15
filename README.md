@@ -1,5 +1,4 @@
 # 2023 산업 AI 마이크로디그리 Track A 과정 Project <br> 
-### By Sumin Han (Myongji Univ.)
 
 ![슬라이드1](https://github.com/hansumin1022/TU_Korea/assets/130205263/8031c325-6913-4694-b4f1-91ece4df7f84)
 ![슬라이드2](https://github.com/hansumin1022/TU_Korea/assets/130205263/091d0250-34c7-4872-bf8f-7d5b95ab1ba8)
