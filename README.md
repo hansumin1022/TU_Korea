@@ -6,7 +6,7 @@
 ![슬라이드4](https://github.com/hansumin1022/TU_Korea/assets/130205263/c6c8e91b-1d41-4123-9b19-88afd9070019)
 ![슬라이드5](https://github.com/hansumin1022/TU_Korea/assets/130205263/790cee6b-06ff-481a-bfca-bb1430631a13)
 ![슬라이드6](https://github.com/hansumin1022/TU_Korea/assets/130205263/61e7afff-7bec-4a4c-956e-1053bb963d52)
-![슬라이드7](https://github.com/hansumin1022/TU_Korea/assets/130205263/9d7b6693-fea2-444b-948c-c1c3fe6262b5)
+![캡처](https://github.com/user-attachments/assets/230be496-17c0-4af9-a301-cb70d3f68931)
 ![슬라이드8](https://github.com/hansumin1022/TU_Korea/assets/130205263/b1f09d7b-dd0e-4246-91a0-0c8b4fd5e675)
 ![슬라이드9](https://github.com/hansumin1022/TU_Korea/assets/130205263/0f992dbd-fc13-41a7-9d17-73b2de1cdf79)
 ![슬라이드10](https://github.com/hansumin1022/TU_Korea/assets/130205263/75191de0-6ccc-4e70-ba65-a8c24cbf6f1d)
