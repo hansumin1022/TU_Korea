@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 # Data
 
 #배터리 잔량 Data
-acity = np.array([0, 1000, 3000, 5000, 7000, 10000, 13000, 16000]).reshape(-1, 1)
+battery_capacity = np.array([0, 1000, 3000, 5000, 7000, 10000, 13000, 16000]).reshape(-1, 1)
 #충전 시간 Data
 charging_time = np.array([2.5, 3.5, 3.0, 2.8, 3.2, 3.8, 3.3, 2.9])
 #온도 Data
