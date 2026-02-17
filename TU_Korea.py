@@ -1,17 +1,17 @@
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-# 배터리 잔량 Data
+# 배터리 잔량 Data_잔량 데이터는 시중 배터리 용량을 임의로 계산한 값임.
 battery_capacity = np.array(
     [0, 1000, 3000, 5000, 7000, 10000, 13000, 16000]
 ).reshape(-1, 1)
 
 # 충전 시간 Data (시간)
-charging_time = np.array([2.5, 3.5, 3.0, 2.8, 3.2, 3.8, 3.3, 2.9])
+charging_time = np.array(["실제 충전 시간 데이터값 채워넣고 싶은데 시간이 없어요 죄송"])
 
 # 온도 Data
 temperature = np.array(
-    [2, 4, 6, 10, 12, 17, 19, 21]
+    ["실제 온도 데이터값 채워넣고 싶은데 시간이 없어요 죄송"]
 ).reshape(-1, 1)
 
 
