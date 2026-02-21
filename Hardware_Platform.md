@@ -7,8 +7,8 @@
 ---
 ### Infineon AURIX TC277 보드 data sheet 요약
 
+| MCU | Infineon AURIX TC277|
 |--|---|
-| 아키텍처 | <b>32-bit TriCore</b> |
+| 아키텍처 | <b>TriCore™ (32-bit)</b> |
 | 클럭 수 | 최대 <b>200 MHz</b> |
-
-- <b>ISO 26262 ASIL-D</b> 등급 지원
+| ASIL | <b>ISO 26262 ASIL-D</b> 등급 지원 |
